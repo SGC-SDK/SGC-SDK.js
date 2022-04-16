@@ -1,0 +1,21 @@
+{
+  "name": "sgc",
+  "version": "1.0.0",
+  "description": "Super Global Chat Library for Discord.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGC-SDK/SGC-SDK.js.git"
+  },
+  "keywords": [],
+  "author": "SGC-SDK (https://github.com/SGC-SDK)",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/SGC-SDK/SGC-SDK.js/issues"
+  },
+  "homepage": "https://github.com/SGC-SDK/SGC-SDK.js#readme",
+  "devDependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
